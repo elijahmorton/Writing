@@ -1,0 +1,15 @@
+Example short story
+
+Imagine this document is a short story,
+intended to be read in one sitting.
+
+Put it here, give it a title.
+
+In this case, it's "examplestory.txt"
+
+Then if you want an image with it,
+put an image with the same name
+
+like "examplestory.jpg"
+
+into the folder. That's it!

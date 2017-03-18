@@ -1,0 +1,5 @@
+Example for a novel/serial, broken into chapters
+
+Novels -> Title -> Chapter #
+
+"ch1.txt" coupled with "ch1.jpg"
