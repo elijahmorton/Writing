@@ -1,0 +1,5 @@
+This is an example
+
+Imagine this is a poem, and example.jpg is the photo you want to go with that poem. 
+
+Put 'em both in the folder, name 'em the same. That's it. 
